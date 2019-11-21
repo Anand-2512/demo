@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: swagger-spring
+Implementation-Version: 2.1.0.RELEASE
+Built-By: Anand_sagar_Tiwari
+Implementation-Vendor-Id: com.sample.test.employee
+Build-Jdk: 1.8.0_231
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/employee-details
+Created-By: Maven Integration for Eclipse
+
