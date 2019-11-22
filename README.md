@@ -27,7 +27,7 @@
 
 ## How to use?
 	1.Install h2 database in your system.
-	2.Clone the code from git URL **https://github.com/Anand-2512/demo**.
+	2.Clone the code from git URL git clone https://github.com/Anand-2512/demo.
 	3.in Application.properties you can change your h2 database config as per your h2 console
 	4.No need to create table as i have already attached the schema.sql and data.sql file
 	5.Run the application.
